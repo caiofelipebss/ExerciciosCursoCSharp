@@ -1,0 +1,12 @@
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\netcoreapp3.1\ExercicioFixacao01.AssemblyInfoInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\netcoreapp3.1\ExercicioFixacao01.AssemblyInfo.cs
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\netcoreapp3.1\ExercicioFixacao01.csproj.CoreCompileInputs.cache
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\netcoreapp3.1\ExercicioFixacao01.exe
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\netcoreapp3.1\ExercicioFixacao01.deps.json
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\netcoreapp3.1\ExercicioFixacao01.runtimeconfig.json
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\netcoreapp3.1\ExercicioFixacao01.runtimeconfig.dev.json
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\netcoreapp3.1\ExercicioFixacao01.dll
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\bin\Debug\netcoreapp3.1\ExercicioFixacao01.pdb
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\netcoreapp3.1\ExercicioFixacao01.dll
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\netcoreapp3.1\ExercicioFixacao01.pdb
+D:\ADS\C# Nelio Alves\Projetos\ExercicioFixacao01\ExercicioFixacao01\obj\Debug\netcoreapp3.1\ExercicioFixacao01.genruntimeconfig.cache
